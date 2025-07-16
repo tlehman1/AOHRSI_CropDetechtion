@@ -11,6 +11,8 @@ The objective of this study is to classify the crops in the selected area of int
 We used Digital Ortophotos from OpenData NRW with a 10cm resolution. Additionally, we extracted the texture features from those images.
 With the RGB and texture features, a Random Forest Classifier was trained.
 All actions were carried out with standard QGIS and Orfeo Toolbox (OTB) tools.
+As a case study to proof the concept, small areas in two different municipalities (Laer (Münster), Wickede (Arnsberg/ Soest)) were chosen.
+Those cities are located in areas with historically known differences in the usual crop types.
 
 ## Classification
 
@@ -20,3 +22,6 @@ All actions were carried out with standard QGIS and Orfeo Toolbox (OTB) tools.
 * 3 - Cereal
 * 4 - Potatoes
 * 5 - Woods
+
+## Results
+
