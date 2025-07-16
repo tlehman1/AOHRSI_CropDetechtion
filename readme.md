@@ -14,9 +14,9 @@ All actions were carried out with standard QGIS and Orfeo Toolbox (OTB) tools.
 
 ## Classification
 
-0 - Empty Field
-1 - Grass
-2 - Corn
-3 - Wheat
-4 - Potato
-5 - 
+* 0 - Empty Field
+* 1 - Grassland
+* 2 - Corn
+* 3 - Cereal
+* 4 - Potatoes
+* 5 - Woods
