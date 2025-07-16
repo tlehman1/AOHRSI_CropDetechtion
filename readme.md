@@ -1,6 +1,7 @@
 # Comparing Crop Types in Different Regions of Germany Using High Resolution Remote Sensing Imagery and Random Forest Classification
 
 Analysis of High Resolution Remote Sensing Imagery
+Additional Data, such as TIFF files, are available [here](https://uni-muenster.sciebo.de/s/mKADGoJgLWD2fpi).
 
 ## Objectives
 
