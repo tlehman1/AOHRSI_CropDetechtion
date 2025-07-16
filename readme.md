@@ -1,7 +1,8 @@
 # Comparing Crop Types in Different Regions of Germany Using High Resolution Remote Sensing Imagery and Random Forest Classification
 
-Analysis of High Resolution Remote Sensing Imagery
-Additional Data, such as TIFF files, are available [here](https://uni-muenster.sciebo.de/s/mKADGoJgLWD2fpi).
+:mortar_board: Analysis of High Resolution Remote Sensing Imagery  
+:floppy_disk: Additional Data, such as TIFF files, are available [here](https://uni-muenster.sciebo.de/s/mKADGoJgLWD2fpi)  
+:computer: No-Code approach. No programming needed
 
 ## Objectives
 
@@ -17,7 +18,7 @@ Those cities are located in areas with historically known differences in the usu
 
 ## Classification
 
-* 0 - Empty Field
+* 0 - Bare Soil
 * 1 - Grassland
 * 2 - Corn
 * 3 - Cereal
@@ -25,4 +26,3 @@ Those cities are located in areas with historically known differences in the usu
 * 5 - Woods
 
 ## Results
-
