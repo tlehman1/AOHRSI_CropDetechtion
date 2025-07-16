@@ -18,7 +18,7 @@ Those cities are located in areas with historically known differences in the usu
 
 ## Classification
 
-* 0 - Empty Field
+* 0 - Bare Soil
 * 1 - Grassland
 * 2 - Corn
 * 3 - Cereal
