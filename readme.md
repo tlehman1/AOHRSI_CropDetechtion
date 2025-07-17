@@ -31,3 +31,6 @@ The Random Forest successfully predicted crop types across the municipalities.
 Laer shows dominant corn cultivation (1159 ha) and bare soil (1567 ha), while Wickede is characterized by extensive potato farming (1423 ha) and higher grassland coverage (767 ha), demonstrating clear regional agricultural differences.  
 But it needs to be said that the results are not perfect and future improvements are needed.  
 <img src="https://github.com/tlehman1/AOHRSI_CropDetechtion/blob/main/poster/graphs/textureAndColour2x2laer.png" style="width: 300px;"/>
+<img src="https://github.com/tlehman1/AOHRSI_CropDetechtion/blob/main/poster/graphs/textureAndColour2x2wickede.png" style="width: 300px;"/>
+
+<img width="669" height="948" alt="image" src="https://github.com/user-attachments/assets/41376f1c-8c6a-4945-b0f9-6a87e614c02c" />
