@@ -33,4 +33,5 @@ But it needs to be said that the results are not perfect and future improvements
 <img src="https://github.com/tlehman1/AOHRSI_CropDetechtion/blob/main/poster/graphs/textureAndColour2x2laer.png" style="width: 300px;"/>
 <img src="https://github.com/tlehman1/AOHRSI_CropDetechtion/blob/main/poster/graphs/textureAndColour2x2wickede.png" style="width: 300px;"/>
 
-<img width="669" height="948" alt="image" src="https://github.com/user-attachments/assets/41376f1c-8c6a-4945-b0f9-6a87e614c02c" />
+<img width="1467" height="2072" alt="image" src="https://github.com/user-attachments/assets/60b6d9a3-0a94-4031-ae12-19a1caeb9175" />
+
